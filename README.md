@@ -67,7 +67,7 @@ A comprehensive test suite covering:
 1. Install dependencies:
 
    ```bash
-   pip install jobspy pandas loguru tqdm
+   pip install -r requirements.txt
    ```
 
 2. Configure environment variables:
