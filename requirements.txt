@@ -1,0 +1,5 @@
+jobspy
+pandas
+loguru
+tqdm
+sqlite3
