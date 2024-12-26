@@ -1,0 +1,50 @@
+{
+    "scraper_config": {
+        "site_names": [
+            "indeed",
+            "glassdoor",
+            "google"
+        ],
+        "search_terms": [
+            "data scientist"
+        ],
+        "google_search_terms": [
+            "data scientist jobs near bangalore, india since yesterday",
+            "data scientist jobs near chennai, india since yesterday",
+            "data scientist jobs near oronto, canada since yesterday",
+            "data scientist jobs near melbourne, australia since yesterday",
+            "data scientist jobs near newcastle, australia since yesterday",
+            "data scientist jobs near canbera, australia since yesterday",
+            "data scientist jobs near queensland, australia since yesterday",
+            "data scientist jobs near auckland, new zealand since yesterday",
+            "data scientist jobs near dublin, ireland since yesterday",
+            "data scientist jobs near limrick, ireland since yesterday"
+        ],
+        "locations": [
+            "bangalore, india",
+            "chennai, india",
+            "toronto, canada",
+            "melbourne, australia",
+            "sydney, australia",
+            "newcastle, australia",
+            "canberra, australia",
+            "queensland, australia",
+            "auckland, new zealand",
+            "dublin, ireland",
+            "limrick, ireland"
+        ],
+        "countries_indeed": [
+            "india",
+            "india",
+            "canada",
+            "australia",
+            "australia",
+            "australia",
+            "australia",
+            "australia",
+            "new zealand",
+            "ireland",
+            "ireland"
+        ]
+    }
+}
